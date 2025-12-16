@@ -44,7 +44,7 @@ export default function Contact() {
               </div>
               <div>
                 <p className="font-semibold ">Our Location</p>
-                <p className="text-sm text-slate-500">Inani-4750 , Ukhiya<br/>Cox's Bazar</p>
+                <p className="text-sm text-slate-500">Khulna-9100 ,<br/>Khulna</p>
               </div>
             </div>
 
@@ -54,7 +54,7 @@ export default function Contact() {
               </div>
               <div>
                 <p className="font-semibold ">Phone Number</p>
-                <p className="text-sm text-slate-500">+8801863199573<br/>+8801625286889</p>
+                <p className="text-sm text-slate-500">+8801745475013</p>
               </div>
             </div>
 
@@ -64,7 +64,7 @@ export default function Contact() {
               </div>
               <div>
                 <p className="font-semibold ">Email Address</p>
-                <p className="text-sm text-slate-500">support@loanlink.com<br/>ayasmahmud48@gmail.com</p>
+                <p className="text-sm text-slate-500">support@loanlink.com<br/>rifatara42043@gmail.com</p>
               </div>
             </div>
 

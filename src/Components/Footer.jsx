@@ -32,28 +32,28 @@ export const Footer = () => {
               <div className="flex space-x-4 pt-2">
                 <Link
                   className="w-10 h-10 rounded-full bg-white border border-slate-100 flex items-center justify-center text-slate-600 shadow-sm"
-                  to="https://www.facebook.com/md.ayas.998691"
+                  to="https://web.facebook.com/rifat.ara.4"
                   aria-label="facebook"
                 >
                   <FaFacebookF />
                 </Link>
                 <Link
                   className="w-10 h-10 rounded-full bg-white border border-slate-100 flex items-center justify-center text-slate-600 shadow-sm"
-                  to="https://github.com/AYAS-MAHMUD"
+                  to="https://github.com/rifatara04"
                   aria-label="twitter"
                 >
                   <FaGithub />
                 </Link>
                 <Link
                   className="w-10 h-10 rounded-full bg-white border border-slate-100 flex items-center justify-center text-slate-600 shadow-sm"
-                  to="https://www.instagram.com/the_ayas_mahmud/"
+                  to="https://www.instagram.com/rifat_ara_04/"
                   aria-label="instagram"
                 >
                   <FaInstagram />
                 </Link>
                 <Link
                   className="w-10 h-10 rounded-full bg-white border border-slate-100 flex items-center justify-center text-slate-600 shadow-sm"
-                  to="https://www.linkedin.com/in/mohammad-ayas/"
+                  to="https://www.linkedin.com/in/rifat-ara-firoz/"
                   aria-label="linkedin"
                 >
                   <FaLinkedinIn />
@@ -145,11 +145,11 @@ export const Footer = () => {
               <ul className="space-y-3">
                 <li className="flex items-start space-x-3 text-gray-600 dark:text-gray-400 text-sm">
                   <MapPin size={18} />
-                  <span>Inani-4750 , Cox's Bazar</span>
+                  <span>Khulna-9100 , Khulna</span>
                 </li>
                 <li className="flex items-center space-x-3 text-gray-600 dark:text-gray-400 text-sm">
                   <Phone size={18} />
-                  <span>+8801863199573</span>
+                  <span>+8801745475013</span>
                 </li>
                 <li className="flex items-center space-x-3 text-gray-600 dark:text-gray-400 text-sm">
                   <Mail size={18} />

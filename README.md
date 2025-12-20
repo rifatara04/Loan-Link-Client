@@ -10,17 +10,12 @@ This project focuses on scalability, access control, and clean user experience, 
 
 ## 🔐 Demo Credentials (For Testing)
 
-You can use the following demo accounts to explore different roles on the platform:
+- (user/borrwer) -> You can register your own gmail or Login with email : 'riaz@gmail.com' pass: riaz1234 
+- Manger -> email : mahmud@gmail.com   pass : mahmud123   (login)
+- Admin -> email : ayas@gmail.com    pass : ayas123    (login)
 
-### 👑 Admin Account
-
-- **Email:** rifatara@firoz.com
-- **Password:** 123456aA#
-
-### 🧑‍💼 Manager Account
-
-- **Email:** rifat@ara.com
-- **Password:** 123456aA#
+**Live URL:** `https://loanlink00.netlify.app/`
+**Server URL:** `https://loan-link-server-sooty.vercel.app`
 
 > ⚠️ These credentials are provided **for demo purposes only**.
 

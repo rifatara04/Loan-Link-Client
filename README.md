@@ -1,6 +1,6 @@
 # LoanLink – Micro Loan Services Platform
 
-🔗 **Live Demo:** https://loanlink00.netlify.app/
+🔗 **Live Demo:** https://loan-link-client.vercel.app/
 
 LoanLink is a secure, role-based micro-loan management platform designed to simplify the complete loan lifecycle — from application to approval and payment handling. The system enables transparent interaction between users, managers, and administrators through structured workflows, real-time status updates, and secure financial operations.
 
@@ -10,11 +10,10 @@ This project focuses on scalability, access control, and clean user experience, 
 
 ## 🔐 Demo Credentials (For Testing)
 
-- (user/borrwer) -> You can register your own gmail or Login with email : 'riaz@gmail.com' pass: riaz1234 
-- Manger -> email : mahmud@gmail.com   pass : mahmud123   (login)
-- Admin -> email : ayas@gmail.com    pass : ayas123    (login)
+- Manger -> email : siam@ahmed.com   pass : 123456aA#   (login)
+- Admin -> email : habib@ullah.com    pass : 123456aA#   (login)
 
-**Live URL:** `https://loanlink00.netlify.app/`
+**Live URL:** `https://loan-link-client.vercel.app/`
 **Server URL:** `https://loan-link-server-sooty.vercel.app`
 
 > ⚠️ These credentials are provided **for demo purposes only**.
